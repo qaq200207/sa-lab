@@ -2,5 +2,6 @@
 
 dsh-superagent end-to-end testing repository for the GitHub pipeline.
 
-- Purpose: vefiry Trigger -> Ticket -> Worker -> PR -> reply
+- Purpose: verify Trigger -> Ticket -> Worker -> PR -> reply
 - Owned by `qaq200207`
+- Verifed with the self-check loop.
